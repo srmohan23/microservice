@@ -7,3 +7,5 @@
 	<li> <img src="https://cloudnesil.com/wp-content/uploads/2018/12/java8_logo.png" width=40 height=40>Java 8</li>
 	<li> <img src="/images/git.png"  width=40 height=40/> Git</li>
 </ul>
+
+<footer>&copy; Copyright 2020 Rajmohan Sakkarai</footer>
